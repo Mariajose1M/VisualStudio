@@ -1,0 +1,11 @@
+hola, la carpeta está tomando una muy buena forma y se nota el esfuerzo que has puesto en el desarrollo de los talleres. Sin embargo, hay varios aspectos que puedes mejorar para que el trabajo final tenga una presentación más clara, organizada y profesional.
+
+Te recomiendo documentar adecuadamente el código que ya has creado, incluyendo comentarios que expliquen lo que hace cada bloque. Esto no solo facilitará la comprensión para otras personas, sino que también te ayudará a ti mismo a mantener una estructura más lógica y ordenada.
+
+Además, sería bueno dejar más espacio entre los ejercicios. Actualmente, hay muchas líneas de código que están demasiado juntas, lo que puede dificultar la lectura y comprensión del contenido. Una mejor organización visual hará que tu código se vea más limpio y estructurado.
+
+También es importante que renombres los archivos con nombres más descriptivos y coherentes, que reflejen el contenido o el tema que abordan. Esto facilitará la navegación por la carpeta y el acceso a cada taller específico.
+
+Por último, dentro de cada archivo, te sugiero agregar títulos o encabezados que indiquen claramente a qué taller corresponde cada segmento de código. Esto le dará mayor contexto a quien lo lea y mejorará la presentación general del trabajo.
+
+Sigue así, vas por buen camino. Solo necesitas pulir algunos detalles para que el resultado final sea excelente.

@@ -47,9 +47,15 @@ not2= float(input("Ingrese la nota 2:"))
 print("NOTAS DE LA ASIGNATURA:", asg3)
 n1= float(input("Ingrese la nota 1:"))
 n2= float(input("Ingrese la nota 2:"))
-pro1=(no1+no2)
-tpl1=(asg1,no1+no2/2)
-tpl2=(asg2,not1+not2/2)
-tpl3=(asg3,n1+n2/2)
-lista=[no1,no2,]
+pro1=(no1+no2/2)
+pro2=(not1+not2/2)
+pro3=(n1+n2/2)
+tpl1=(asg1,pro1)
+tpl2=(asg2,pro2)
+tpl3=(asg3,pro3)
+lista1=[tpl1(no1,no2)]
+lista2=[tpl2(not1,not2)]
+lista3=[tpl3(n1,n2)]
+listas=(lista1,lista2,lista3)
+dicc={"nombre":estu,"materias":listas}
 

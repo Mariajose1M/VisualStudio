@@ -1,3 +1,4 @@
+print("******************************************************************")
 print("Ejercicio 1")
 nombre=input("Ingrese un producto:")
 pu=float(input("Ingrese el precio unitario:"))
@@ -7,6 +8,8 @@ list=[tpl1,cc]
 dicc={"producto":"list"}
 ct=pu*cc
 print("El costo total del producto:",nombre,"es:",ct)
+
+print("*******************************************************************")
 print("Ejercicio 2")
 p1=input("Ingrese el primer producto:")
 p2=input("Ingrese el segundo producto:")
@@ -28,3 +31,25 @@ ct1=pu1*cc
 ct2=pu2*cc
 ct3=pu3*cc
 print("El precio total del producto:",p1,"es:",ct1,"El precio total del producto:",p2,"es:",ct2,"El precio total del producto:",p3,"es:",ct3)
+
+print("*******************************************************************")
+print("Ejercicio 3")
+estu= input("Ingrese el nombre del estudiante:")
+asg1= input("Ingrese la primer asignatura:")
+asg2= input("Ingrese la segunda asignatura:")
+asg3= input("Ingrese la tercer asignatura:")
+print("NOTAS DE LA ASIGNATURA:", asg1)
+no1= float(input("Ingrese la nota 1:"))
+no2= float(input("Ingrese la nota 2:"))
+print("NOTAS DE LA ASIGNATURA:", asg2)
+not1= float(input("Ingrese la nota 1:"))
+not2= float(input("Ingrese la nota 2:"))
+print("NOTAS DE LA ASIGNATURA:", asg3)
+n1= float(input("Ingrese la nota 1:"))
+n2= float(input("Ingrese la nota 2:"))
+pro1=(no1+no2)
+tpl1=(asg1,no1+no2/2)
+tpl2=(asg2,not1+not2/2)
+tpl3=(asg3,n1+n2/2)
+lista=[no1,no2,]
+
